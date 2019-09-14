@@ -22,3 +22,9 @@ mydb<-dbConnect(RMySQL::MySQL(),default.file=rmysql.settingsfile,group=rmysql.db
 #Check we connected
 dbListTables(mydb)
 
+#There is no misc type
+Error in Maxent_Simple_Entity_Detector(language, kind, probs, model) : 
+  Could not find model file for language 'en' and kind 'misc'.
+Apparently, package 'openNLPmodels.en' is installed
+but does not provide this model.
+
