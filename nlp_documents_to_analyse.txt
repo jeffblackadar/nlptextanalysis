@@ -1,0 +1,4 @@
+w2_bentley_turn_toward_science.txt
+w2_grafton_grossman_no_more_plan_b.txt
+w2_smith_gender_practices_scientific_history.txt
+w2_theses_on_theory_and_history.txt
